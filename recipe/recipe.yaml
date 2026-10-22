@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.2.0"
+  version: "0.2.2"
 
 package:
   name: openevals
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/o/openevals/openevals-${{ version }}.tar.gz
-  sha256: 7e95fa64625be53eaa8c657d7f69b842a52bda10bdf3bb91781c7d09a385b069
+  sha256: d999b6d044f41f9f6c517cd83565d9be90df8571074f64c513841b74717c872b
 
 build:
   number: 0
